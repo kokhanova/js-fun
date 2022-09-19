@@ -37,3 +37,7 @@ body {
     box-shadow: 1px 1px 5px #02a298aa, 
                 1px 1px 15px #02a298aa;
 }
+
+.card:first-child{
+    grid-column-end: span 6;
+}
